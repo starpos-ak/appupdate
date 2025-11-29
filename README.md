@@ -1,0 +1,2 @@
+# appupdate
+StarPos
